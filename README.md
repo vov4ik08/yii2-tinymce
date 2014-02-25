@@ -1,4 +1,4 @@
-#TinyMce widget
+#TinyMce widget for yii2
 Usage
 ```php
  <?=
