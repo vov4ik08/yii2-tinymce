@@ -1,0 +1,22 @@
+{
+    "name": "apollo/yii2-tinymce",
+    "description": "TinyMce for yii2 textarea",
+    "version": "1.0",
+    "homepage": "https://github.com/vov4ik08/yii2-tinymce",
+    "keywords": ["yii2","tinymce"],
+    "license": "MIT",
+
+
+
+
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Apollo\\": ""
+        }
+    }
+}
