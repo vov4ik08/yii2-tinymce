@@ -13,7 +13,7 @@ use yii\web\AssetBundle;
 
 class TinyMceAssets extends AssetBundle {
 
-    public $sourcePath = '@vendor/yii2-tinymce/assets';
+    public $sourcePath = '@vendor/apollo/yii2-tinymce/assets';
 
     public $css = [
 
